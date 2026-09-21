@@ -1,0 +1,6 @@
+technique,clarity,relevance,specificity,remarks
+Zero-Shot,5,5,4,Clear and relevant response
+One-Shot,5,5,4,Clear and relevant response
+Few-Shot,5,5,4,Clear and relevant response
+Role Prompting,5,5,4,Clear and relevant response
+Chain-of-Thought,5,5,4,Clear and relevant response

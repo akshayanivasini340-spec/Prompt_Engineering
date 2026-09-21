@@ -1,0 +1,10 @@
+technique,prompt,generated_response
+Zero-Shot,Explain artificial intelligence in simple words.,Artificial intelligence is technology that allows computers to perform tasks that normally require human intelligence.
+One-Shot,"Example: Python is a programming language.
+Now explain Java in a similar way.","Java is a programming language used to build applications, web systems, and other software."
+Few-Shot,"Example 1: Cat -> Animal
+Example 2: Rose -> Plant
+Example 3: Eagle -> Bird
+Now classify: Dolphin",Dolphin -> Animal
+Role Prompting,Act as a computer science teacher and explain machine learning to a beginner.,Machine learning is a part of artificial intelligence where computers learn patterns from data and use those patterns to make predictions or decisions.
+Chain-of-Thought,"Solve this problem step by step: If a student studies 2 hours per day for 5 days, how many hours do they study?","The student studies 2 hours each day. There are 5 days. Therefore, 2 × 5 = 10 hours."

@@ -1,0 +1,6 @@
+technique,prompt_length,response_length
+Zero-Shot,48,118
+One-Shot,77,91
+Few-Shot,96,17
+Role Prompting,77,151
+Chain-of-Thought,111,84
